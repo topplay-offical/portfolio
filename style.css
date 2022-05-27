@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(140, 140, 255), rgb(180, 255, 180));
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+}
+nav{
+    padding: 20px;
+}
+main {
+    text-align: center;
+    font-size: large;
+    margin: 10px;
+}
+
+a {
+    color: black;
+}
+
+.link-header {
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+}
+li {
+    padding: 5px;
+}
